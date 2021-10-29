@@ -1,4 +1,4 @@
-Handwritten Digits Recognition
+# Handwritten Digits Recognition
 
 Convolutional Neural Network to predict handwritten digits using Tensorflow
 
