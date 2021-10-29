@@ -1,6 +1,6 @@
 # Handwritten Digits Recognition
 
-Convolutional Neural Network to predict handwritten digits using Tensorflow
+Convolutional Neural Network(CNN) to predict handwritten digits using Tensorflow
 
 ## What is a Convolutional Neural Network ? 🤔
 
